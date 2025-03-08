@@ -47,10 +47,11 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/94e59511-a6fc-4157-98ff-bacfc792933d)
+![image](https://github.com/user-attachments/assets/605d9334-6b60-4a53-8d5c-ce2a7531d64f)
 
 ### Command list
 ![image](https://github.com/user-attachments/assets/41e3814a-dd62-4110-8ca7-59902f06b9e3)
+![image](https://github.com/user-attachments/assets/d0628616-140c-456a-81e5-f85c4241504a)
 
 ### Other ScreenShots
 
