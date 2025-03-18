@@ -1,6 +1,6 @@
-# Millenium RAT (RAT + stealer + keylogger), version 3.1
-A telegram-controlled Windows RAT (remote access tool), no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
-## Features 
+# Millenium RAT (RAT + stealer + keylogger), version 3.2
+An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 years of history, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
+## Features
 <br />⭐️ Common:
 <br />🔹two types of powerfull data encryption
 <br />🔹Easy-to-use compact builder
@@ -11,15 +11,14 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔹Anti-debug
 <br />🔹Auto-Stealer on first launch 
 <br />🔹Single .net exe without dependences
-<br />🔹Separated cookie grabbing
 <br />🔹Self-installing/No self-installing
 <br />🔹Auto command execution (on the first run)
 <br />🔹Startup/Request delay adjustment
 <br />
 <br />⭐️ Options :
-<br />🔶NEW: App-Bound decryption bypass
-<br />🔶NEW: Disable App-Bound decryption (for all browsers, only with admin privileges)
-<br />🔶NEW: Advanced Hidden StartUp
+<br />🔶NEW: Privileges elevation
+<br />🔶NEW: Wallet Recovery
+<br />🔶NEW: Hidden Installation folder (only with admin privileges)
 <br />🔶remote Powershell execution
 <br />🔶Keylogger 
 <br />🔶Pronouncing text to user
@@ -36,36 +35,37 @@ A telegram-controlled Windows RAT (remote access tool), no dedicated server or p
 <br />🔶Computer info grabbing (CPU, GPU, RAM, Country, city, IP, Mac Address etc)
 <br />🔶Discord token grabbing (from discord client and all the main browsers)
 <br />🔶Telegram data grabbing grabbing
-<br />🔶Browsers data grabbing: downloads, cookies, passwords, credit cards, history
+<br />🔶Browsers data grabbing: downloads, cookies, passwords, credit cards, history (with cookie app-bound encryption bypass)
 <br />🔶CMD command executing
 <br />🔶Self-unistalling
 <br />🔶Files&Folders: copy, delete, download, upload, list etc
 <br />🔶Processes: run, list current processes, kill, get process path
 <br />🔶System shutdown
 <br />🔶System restart
-<br />🔶And more, check the command list below
+<br />🔶And much more, check the command list below
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/605d9334-6b60-4a53-8d5c-ce2a7531d64f)
+![image](https://github.com/user-attachments/assets/f9112c23-2800-40ea-ad31-5c336ba11999)
 
 ### Command list
-![image](https://github.com/user-attachments/assets/41e3814a-dd62-4110-8ca7-59902f06b9e3)
-![image](https://github.com/user-attachments/assets/d0628616-140c-456a-81e5-f85c4241504a)
+![image](https://github.com/user-attachments/assets/b8ad7c46-d179-403c-8e8e-fda44e192555)
+![image](https://github.com/user-attachments/assets/d5e3aeed-fe27-47bd-a5e9-11e5edf35c53)
 
 ### Other ScreenShots
+![image](https://github.com/user-attachments/assets/8af9297e-ac8c-4d67-ad7c-01c82dee0d57)
 
-![image](https://github.com/user-attachments/assets/7f0fc472-0093-435b-9ec4-12569594ed3a)
+![image](https://github.com/user-attachments/assets/ad14589b-29a7-4737-a905-2bbc7341d537)
 
-![image](https://github.com/user-attachments/assets/467cc4b9-b2f0-4ebf-89d1-889822a9c747)
+![image](https://github.com/user-attachments/assets/a7e755a7-364f-48f5-8d4c-68d27876bc95)
 
-![image](https://github.com/user-attachments/assets/1f96c7ea-287f-43ea-8b3b-1fb993d2cd21)
+![image](https://github.com/user-attachments/assets/8782099c-3312-44ba-936b-57e13857162a)
 
-![image](https://github.com/user-attachments/assets/3538cdd3-e2be-471e-b6bb-c88b127a0585)
+![image](https://github.com/user-attachments/assets/e580d99f-9abf-46af-bc15-161673d0fbe3)
 
-![image](https://github.com/user-attachments/assets/2b2fdb99-d078-459d-8b43-ded54c91dc09)
-
+![image](https://github.com/user-attachments/assets/fa10c7a0-50ea-4676-add2-c193bd74de09)
 
 
 ## ♦️DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY ILLEGAL USAGE OF THIS TOOL♦️
+
 
