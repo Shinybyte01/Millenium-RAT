@@ -1,7 +1,10 @@
-# Millenium RAT (RAT + stealer + keylogger), version 3.2
-An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 years of history, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me
+# Millenium RAT (RAT + stealer + keylogger), version 3.3
+An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 years of history, no dedicated server or port forwarding is required for usage. Contact me by Telegram to buy: <em>**@shinyenigma**</em> (Accepting USDT, BTC, TRX, XMR, ETH, LTC and more). All the features of this tool are described below, if you still have any questions feel free to contact me:) 
 ## Features
 <br />⭐️ Common:
+<br />🔶NEW: Extra token protection
+<br />🔶NEW: Decreased file size
+<br />🔶NEW: Proxy usage
 <br />🔹two types of powerfull data encryption
 <br />🔹Easy-to-use compact builder
 <br />🔹Client works on Windows 7 and higher (32 and 64 bit)
@@ -15,14 +18,13 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 <br />🔹Auto command execution (on the first run)
 <br />🔹Startup/Request delay adjustment
 <br />
-<br />⭐️ Options :
-<br />🔶NEW: Privileges elevation
-<br />🔶NEW: Wallet Recovery
-<br />🔶NEW: Hidden Installation folder (only with admin privileges)
-<br />🔶remote Powershell execution
-<br />🔶Keylogger 
+<br />⭐️ Options:
+<br />🔶Remote Powershell execution
+<br />🔶Wallet Recovery
+<br />🔶Privileges elevation
 <br />🔶Pronouncing text to user
 <br />🔶Messagebox invoking
+<br />🔶Keylogger
 <br />🔶One-command desktop files grabbing
 <br />🔶Encrypting/decrypting user files
 <br />🔶Minimize/maximize windows
@@ -46,26 +48,24 @@ An advanced telegram-controlled Windows RAT (remote access tool) with almost 2 y
 
 ## Screenshots
 ### Builder
-![image](https://github.com/user-attachments/assets/f9112c23-2800-40ea-ad31-5c336ba11999)
+![image](https://github.com/user-attachments/assets/c0d1e60c-f5f1-4df5-bac9-ac735c7ebae3)
 
 ### Command list
-![image](https://github.com/user-attachments/assets/b8ad7c46-d179-403c-8e8e-fda44e192555)
-![image](https://github.com/user-attachments/assets/d5e3aeed-fe27-47bd-a5e9-11e5edf35c53)
+![image](https://github.com/user-attachments/assets/0654d9c1-003d-4045-8a70-5e330d61ad88)
+![image](https://github.com/user-attachments/assets/84033d29-e7f7-4790-9490-6d76b27bd52d)
+
 
 ### Other ScreenShots
-![image](https://github.com/user-attachments/assets/8af9297e-ac8c-4d67-ad7c-01c82dee0d57)
 
-![image](https://github.com/user-attachments/assets/ad14589b-29a7-4737-a905-2bbc7341d537)
+![image](https://github.com/user-attachments/assets/93136270-980a-4b69-963f-ae5ad7ae4d1b)
 
-![image](https://github.com/user-attachments/assets/a7e755a7-364f-48f5-8d4c-68d27876bc95)
+![image](https://github.com/user-attachments/assets/ee4b6e4c-c54d-414c-a938-895a701a55a7)
 
-![image](https://github.com/user-attachments/assets/8782099c-3312-44ba-936b-57e13857162a)
+![image](https://github.com/user-attachments/assets/c859fd9a-660f-4658-9054-6739eddd27d2)
 
-![image](https://github.com/user-attachments/assets/e580d99f-9abf-46af-bc15-161673d0fbe3)
+![image](https://github.com/user-attachments/assets/e3fca670-510f-4fb0-b0cc-58fdd8a515af)
 
-![image](https://github.com/user-attachments/assets/fa10c7a0-50ea-4676-add2-c193bd74de09)
+![image](https://github.com/user-attachments/assets/cc0e3121-0d98-44a0-ba4e-562384146685)
 
 
 ## ♦️DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY ILLEGAL USAGE OF THIS TOOL♦️
-
-
